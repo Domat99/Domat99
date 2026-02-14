@@ -68,6 +68,8 @@ Passionate about AI, Machine Learning and Information Security
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/domatalkhoury/)  
+<a href="https://www.linkedin.com/in/domatalkhoury/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
