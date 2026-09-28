@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Domat</h1>
 <p align="center">
-  <b>MEng Cybersecurity Engineering Student at Concordia University</b><br>
-  Software Engineering • Applied Cybersecurity • Full-Stack Systems & Automation Testing
+  <b>Automation Developer at Matrox Graphics (Montreal)</b><br>
+  MEng Cybersecurity Engineering Student at Concordia University<br>
+  Software Engineering • Applied Cybersecurity • Full-Stack Systems & Automation
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 - 🎓 **Graduate Studies:** MEng in Cybersecurity Engineering at Concordia University, focusing on system defense architectures, vulnerability assessment, and applied cryptography.
 - 🔭 **Currently Working On:** Developing automated testing frameworks, secure web service migrations, and computer vision pipelines for real-time telemetry.
 - 👯 **Looking to Collaborate On:** Applied security tooling, agentic AI workflows, and developer infrastructure tooling.
-- 💬 **Ask Me About:** Full-stack development (TypeScript, React Native, Node.js, Python/FastAPI), automated QA testing pipelines, backend system architecture, or DIY car maintenance on a Subaru WRX.
+- 💬 **Ask Me About:** Full-stack development (TypeScript, React Native, Node.js, Python/FastAPI), workflow and process automation, backend system architecture, or DIY car maintenance on a Subaru WRX.
 - ⚡ **Fun Fact:** Full-stack engineer by day, amateur mechanic and 3D printing tinkerer by night.
 
 ---
