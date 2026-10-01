@@ -21,7 +21,7 @@
 - 🎓 **Graduate Studies:** MEng in Cybersecurity Engineering at Concordia University, focusing on system defense architectures, vulnerability assessment, and applied cryptography.
 - 🔭 **Currently Working On:** Developing automated testing frameworks, secure web service migrations, and computer vision pipelines for real-time telemetry.
 - 👯 **Looking to Collaborate On:** Applied security tooling, agentic AI workflows, and developer infrastructure tooling.
-- 💬 **Ask Me About:** Full-stack development (TypeScript, React Native, Node.js, Python/FastAPI), workflow and process automation, backend system architecture, or DIY car maintenance on a Subaru WRX.
+- 💬 **Ask Me About:** Full-stack development (TypeScript, React Native, Node.js, Python/FastAPI), workflow and process automation, backend system architecture, or DIY car maintenance.
 - ⚡ **Fun Fact:** Full-stack engineer by day, amateur mechanic and 3D printing tinkerer by night.
 
 ---
